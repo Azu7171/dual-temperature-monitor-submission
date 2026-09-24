@@ -1,0 +1,10 @@
+.next/
+node_modules/
+out/
+.DS_Store
+*.log
+*.tsbuildinfo
+.env*
+!.env.example
+.vercel/
+firmware/dual_temp_monitor/secrets.h
